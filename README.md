@@ -43,17 +43,9 @@ Actualmente, combino mi formación académica con el desarrollo de productos rea
 ---
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge=docker&logoColor=white)
 
 
----
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=NachoSamo&show_icons=true&theme=tokyonight" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoSamo&layout=compact&theme=tokyonight" width="300" />
-</p>
-
----
 [LinkedIn](www.linkedin.com/in/ignacio-samocachan) | [Email](mailto:ignasamo2@gmail.com)
