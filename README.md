@@ -44,8 +44,10 @@ Actualmente, combino mi formación académica con el desarrollo de productos rea
 
 ### 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NachoSamo&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NachoSamo&layout=compact&theme=gotham)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NachoSamo&show_icons=true&theme=gotham&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoSamo&layout=compact&theme=gotham&hide_border=true" height="180" alt="languages graph" />
+</div>
 
 ---
 [LinkedIn](www.linkedin.com/in/ignacio-samocachan) | [Email](mailto:ignasamo2@gmail.com)
