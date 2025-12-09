@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hola, soy Nacho Samo 👋
+### Full Stack Developer | Mobile & Backend Enthusiast
 
-<!--
-**NachoSamo/NachoSamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Analista desarrollador de software a su vez continuo mi carrera como estudiante avanzado de Ingenieria en Sistemas en la UTN FRC.
+Apasionado por crear soluciones que resuelvan problemas reales. Me especializo en arquitecturas robustas en **Java (Spring Boot)** y **Node.js**, junto con conocimiento en **React Native y Expo** para móviles
 
-Here are some ideas to get you started:
+Actualmente, combino mi formación académica con el desarrollo de productos reales, como la gestión digital de mi propio emprendimiento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+* **Móvil:** React Native, Expo.
+* **Frontend:** React.js, TypeScript, Tailwind CSS, Bootstrap.
+* **Backend:** Java (Spring Boot), Node.js (Express), Python (Flask).
+* **Bases de Datos:** PostgreSQL, SQL Server, Supabase, SQLite.
+* **Herramientas:** Docker, Git, Postman, Figma, Jira.
+
+---
+
+### 🚀 Proyectos Destacados
+
+#### 📱 **[SamoScore](https://github.com/NachoSamo/SamoScore.git)**
+*Aplicación móvil de resultados deportivos en tiempo real.*
+* **Tech:** React Native, Expo, Supabase, TypeScript.
+* **Highlight:** Integración de APIs externas (TheSportsDB) y autenticación de usuarios. Desarrollo enfocado en UI/UX moderna.
+
+#### 💊 **[Software All-In Pharma](https://github.com/SofwareAllinPharma/ProyectoAll-InPharma.git)**
+*Sistema integral de gestión para farmacias y producción.*
+* **Tech:** React, Node.js, PostgreSQL, Docker.
+* **Highlight:** Arquitectura compleja para manejo de stock, ventas y trazabilidad de producción. (Tesis de título intermedio).
+
+#### 🚛 **[Sistema de Logística de Contenedores](https://github.com/NachoSamo/TP-Contenedores-Backend.git)**
+*Backend de microservicios para logística y transporte.*
+* **Tech:** Java Spring Boot, Microservicios, Docker, Keycloak.
+* **Highlight:** Arquitectura distribuida con API Gateway y seguridad JWT.
+
+#### 🌰 **[WellNuts Manager](https://github.com/NachoSamo/ProyectoWellNuts.git)**
+*Plataforma de gestión para e-commerce de frutos secos.*
+* **Tech:** React, Node.js, Sequelize.
+* **Highlight:** Sistema real en producción utilizado para registrar clientes, ventas y métricas de mi propio negocio.
+
+---
+
+### 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NachoSamo&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NachoSamo&layout=compact&theme=gotham)
+
+---
+[LinkedIn](www.linkedin.com/in/ignacio-samocachan) | [Email](mailto:ignasamo2@gmail.com)
