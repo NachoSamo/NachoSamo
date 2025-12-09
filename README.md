@@ -1,5 +1,5 @@
 # Hola, soy Nacho Samo 👋
-### Full Stack Developer | Mobile & Backend Enthusiast
+### Full Stack Developer
 
 Soy Analista desarrollador de software a su vez continuo mi carrera como estudiante avanzado de Ingenieria en Sistemas en la UTN FRC.
 Apasionado por crear soluciones que resuelvan problemas reales. Me especializo en arquitecturas robustas en **Java (Spring Boot)** y **Node.js**, junto con conocimiento en **React Native y Expo** para móviles
@@ -10,9 +10,9 @@ Actualmente, combino mi formación académica con el desarrollo de productos rea
 
 ### 🛠️ Tech Stack
 
-* **Móvil:** React Native, Expo.
 * **Frontend:** React.js, TypeScript, Tailwind CSS, Bootstrap.
 * **Backend:** Java (Spring Boot), Node.js (Express), Python (Flask).
+* **Móvil:** React Native, Expo.
 * **Bases de Datos:** PostgreSQL, SQL Server, Supabase, SQLite.
 * **Herramientas:** Docker, Git, Postman, Figma, Jira.
 
@@ -21,12 +21,12 @@ Actualmente, combino mi formación académica con el desarrollo de productos rea
 ### 🚀 Proyectos Destacados
 
 #### 📱 **[SamoScore](https://github.com/NachoSamo/SamoScore.git)**
-*Aplicación móvil de resultados deportivos en tiempo real.*
+*Aplicación móvil de resultados deportivos.*
 * **Tech:** React Native, Expo, Supabase, TypeScript.
 * **Highlight:** Integración de APIs externas (TheSportsDB) y autenticación de usuarios. Desarrollo enfocado en UI/UX moderna.
 
 #### 💊 **[Software All-In Pharma](https://github.com/SofwareAllinPharma/ProyectoAll-InPharma.git)**
-*Sistema integral de gestión para farmacias y producción.*
+*Sistema integral de gestión con foco en gestión de fábrica, catálogo de productos, pedidos de elaboración y stock, con trazabilidad por estados, gestión de fórmulas y generación de etiquetas.*
 * **Tech:** React, Node.js, PostgreSQL, Docker.
 * **Highlight:** Arquitectura compleja para manejo de stock, ventas y trazabilidad de producción. (Tesis de título intermedio).
 
@@ -36,7 +36,7 @@ Actualmente, combino mi formación académica con el desarrollo de productos rea
 * **Highlight:** Arquitectura distribuida con API Gateway y seguridad JWT.
 
 #### 🌰 **[WellNuts Manager](https://github.com/NachoSamo/ProyectoWellNuts.git)**
-*Plataforma de gestión para e-commerce de frutos secos.*
+*Plataforma de gestión para emprendimiento de venta de frutos secos.*
 * **Tech:** React, Node.js, Sequelize.
 * **Highlight:** Sistema real en producción utilizado para registrar clientes, ventas y métricas de mi propio negocio.
 
@@ -44,10 +44,9 @@ Actualmente, combino mi formación académica con el desarrollo de productos rea
 
 ### 📊 Estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NachoSamo&show_icons=true&theme=gotham&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoSamo&layout=compact&theme=gotham&hide_border=true" height="180" alt="languages graph" />
-</div>
+### 📊 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NachoSamo&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NachoSamo&layout=compact&theme=gotham)
 
 ---
 [LinkedIn](www.linkedin.com/in/ignacio-samocachan) | [Email](mailto:ignasamo2@gmail.com)
