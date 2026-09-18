@@ -1,10 +1,8 @@
 # Hola, soy Nacho Samo 👋
-### Full Stack Developer
 
 Soy Analista desarrollador de software a su vez continuo mi carrera como estudiante avanzado de Ingenieria en Sistemas en la UTN FRC.
-Apasionado por crear soluciones que resuelvan problemas reales. Me especializo en arquitecturas robustas en **Java (Spring Boot)** y **Node.js**, junto con conocimiento en **React Native y Expo** para móviles
-
-Actualmente, combino mi formación académica con el desarrollo de productos reales, como la gestión digital de mi propio emprendimiento.
+Apasionado por crear soluciones que resuelvan problemas reales. 
+Actualmente, combino mi formación académica con el desarrollo de productos reales.
 
 ---
 
