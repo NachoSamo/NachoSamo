@@ -39,7 +39,7 @@ AI-native systems, computer vision, ML and backend at scale. The enterprise engi
 * **Tech:** Python, OpenAI API, RAG, real-time Slack alerts.
 * **Highlight:** Detects approval-rate drops and isolates the smallest affected slice (merchant × provider × method × country). Core rule: *statistics detect, the LLM explains*. A deterministic engine feeds a RAG layer over payments rules, so the model can't invent root causes and the product works without an API key.
 
-#### 🃏**[Cómplice AI](https://github.com/NachoSamo/trucoAI)**
+#### 🃏 **[Cómplice AI](https://github.com/NachoSamo/trucoAI)**
 *Lets blind and visually impaired players play Truco. 1st place at UTN-FRC × Bitlogic Hackathon 2026.*
 * **Tech:** Python, FastAPI, YOLO, RoboFlow, React, TypeScript, PostgreSQL, Web Speech API.
 * **Highlight:** Built in 7 hours: custom Spanish-deck dataset, YOLO fine-tuned with RoboFlow for real-time card detection, and voice feedback.
